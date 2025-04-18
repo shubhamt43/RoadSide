@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Lato', cursive;
+    
+}
+body{
+    overflow-x: hidden;
+}
+h1{
+    font-weight:  900;
+    font-family: 'Lato', cursive;
+}
+/* .img-fluid{
+    height: 500px;
+}  */
+.login:hover{
+    background-color: rgb(240, 142, 187);
+    border: 1px solid black;
+    border-radius: 50px;
+}
+.rent:hover{
+    background-color :rgb(56, 102, 253);
+}
+.about:hover{
+    background-color: skyblue;
+}
+.buy:hover{
+    background-color: rgb(56, 102, 253);
+}   
+.tendors:hover{
+    background-color: rgb(133, 236, 123);
+}   
+.mode{
+    border: none;
+}
+/* .name{
+    font-family: 'Lato',cursive;
+    /* color: rgb(65, 102, 226); */
+    /* font-weight: 800;
+}  */
+.card{
+    border: none;
+}
+.carousel-item img{
+    width: 100%;
+    height: 90vh;
+}
+.features{
+    display: flex;
+}
